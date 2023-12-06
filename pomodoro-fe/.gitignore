@@ -34,14 +34,14 @@ yarn-error.log
 /example_dist
 /example
 
-# tests
-/test
-/benchmarks/memory
-/coverage
-/.nyc_output
-/packages/graphql
-/benchmarks/memory
-build/config\.gypi
+# # tests
+# /test
+# /benchmarks/memory
+# /coverage
+# /.nyc_output
+# /packages/graphql
+# /benchmarks/memory
+# build/config\.gypi
 
 .npmrc
 pnpm-lock.yaml
